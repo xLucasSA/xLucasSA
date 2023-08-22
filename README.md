@@ -17,3 +17,8 @@ Meu nome é Lucas Soares de Abreu e eu sou **Desenvolvedor Backend** desde 2023 
 ---------------------------------------------------------------------------------------------------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xLucasSA&theme=tokyonight&custom_title=Top%20%Linguagens)
+
+---------------------------------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/xLucasSA/xLucasSA/output/snake.svg" alt="Snake animation" />
+
+###
