@@ -15,7 +15,7 @@ Em seguida, tive a oportunidade de ingressar em um curso profissionalizante de *
 
 <br clear="both">
 
-<p align="center">⭐⭐⭐ Esse é um breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐⭐⭐</p>
+<p align="center">⭐ Esse é um breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐</p>
 
 <br clear="both">
 
