@@ -6,20 +6,37 @@
 
 # Olá 👋
 
-Meu nome é Lucas Soares de Abreu e eu sou **Desenvolvedor Backend** desde 2023 formado pelo curso da [Cubos Academy](https://cubos.academy/). Decidi optar por fazer uma migração de carreira ao sair do curso de engenharia civil no 8º período para me aprofundar nessa área.
+Meu nome é Lucas Soares de Abreu e comecei na área de **Desenvolvimento de Software** no ano de 2023. Estava cursando engenharia civil anteriormente, mas não me identifiquei com o curso e resolvi fazer essa **migração de carreira**.
+
+Sempre me identifiquei muito com a área de **tecnologia**, pois tive muito contato com jogos eletrônicos na infância e isso sempre me fascinou muito. E um dos primeiros contatos reais que tive com a programação foi em no estágio que ingressei em 2022 e que estou até hoje.
+
+Em seguida, tive a oportunidade de ingressar em um curso profissionalizante de **Desenvolvedor Backend** na [Cubos Academy](https://cubos.academy/) através de  uma bolsa de estudos disponibilizada pela empresa **iFood**, onde o foco é o desenvolvimento de aplicações web utilizando o **Javascript** e **Node.js**, juntamente com banco de dados **PostegreSQL**.
+
+Esse é um breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐⭐⭐⭐⭐
 
 ## 💻 Para me encontrar:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-soares-in/) <a href="mailto:lsdeabreu@gmail.com">![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-soares-in/) <a href="mailto:lsdeabreu@gmail.com">![Gamil](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)</a> [![Whatsapp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5538992101911)
 
 
 ## 🚀 Hard Skills:
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-
-
-
-
+###
 ---------------------------------------------------------------------------------------------------
 
 <div align="center">
