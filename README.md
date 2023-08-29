@@ -13,7 +13,9 @@ Sempre me identifiquei muito com a área de **tecnologia**, pois tive muito cont
 
 Em seguida, tive a oportunidade de ingressar em um curso profissionalizante de **Desenvolvedor Backend** na [Cubos Academy](https://cubos.academy/) através de  uma bolsa de estudos disponibilizada pela empresa **iFood**, onde o foco é o desenvolvimento de aplicações web utilizando o **Javascript** e **Node.js**, juntamente com banco de dados **PostegreSQL**.
 
-Esse é um breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐⭐⭐⭐⭐
+<br clear="both">
+
+<p align="center">⭐⭐⭐ Esse é um breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐⭐⭐</p>
 
 <br clear="both">
 
