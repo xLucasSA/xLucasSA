@@ -9,13 +9,13 @@
 
 Meu nome é Lucas Soares de Abreu e comecei na área de **Desenvolvimento de Software** no ano de 2023. Estava cursando engenharia civil anteriormente, mas não me identifiquei com o curso e resolvi fazer essa **migração de carreira**.
 
-Sempre me identifiquei muito com a área de **tecnologia**, pois tive muito contato com jogos eletrônicos na infância e isso sempre me fascinou muito. E um dos primeiros contatos reais que tive com a programação foi em no estágio que ingressei em 2022 e que estou até hoje.
+Sempre me identifiquei muito com a área de **tecnologia**, pois tive muito contato com jogos eletrônicos na infância e isso sempre me fascinou muito. Um dos primeiros contatos reais que tive com a programação foi no estágio que ingressei em 2022 e que estou até hoje.
 
-Em seguida, tive a oportunidade de ingressar em um curso profissionalizante de **Desenvolvedor Backend** na [Cubos Academy](https://cubos.academy/) através de  uma bolsa de estudos disponibilizada pela empresa **iFood**, onde o foco é o desenvolvimento de aplicações web utilizando o **Javascript** e **Node.js**, juntamente com banco de dados **PostegreSQL**.
+Em seguida, recebi a oportunidade de participar do curso profissionalizante de **Desenvolvedor Backend** na [Cubos Academy](https://cubos.academy/) através de  uma bolsa de estudos disponibilizada pela empresa **iFood**, onde o foco é o desenvolvimento de aplicações web utilizando o **Javascript** e **Node.js**, juntamente com banco de dados **PostegreSQL**.
 
 <br clear="both">
 
-<p align="center">⭐ Breve resumo da minha carreira até o agora e espero que seja apenas um começo de uma grande história! ⭐</p>
+<p align="center">⭐ Breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐</p>
 
 <br clear="both">
 
