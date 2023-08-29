@@ -3,8 +3,9 @@
 </div>
 
 ###
+<br clear="both">
 
-# Olá 👋
+<h1 align="center">Olá 👋</h2>
 
 Meu nome é Lucas Soares de Abreu e comecei na área de **Desenvolvimento de Software** no ano de 2023. Estava cursando engenharia civil anteriormente, mas não me identifiquei com o curso e resolvi fazer essa **migração de carreira**.
 
@@ -14,26 +15,38 @@ Em seguida, tive a oportunidade de ingressar em um curso profissionalizante de *
 
 Esse é um breve resumo da minha carreira até o momento e espero que seja apenas um começo de uma grande história! ⭐⭐⭐⭐⭐
 
-## 💻 Para me encontrar:
+<br clear="both">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-soares-in/) <a href="mailto:lsdeabreu@gmail.com">![Gamil](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)</a> [![Whatsapp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5538992101911)
+<h2 align="center">💻 Para me encontrar 💻</h2>
+
+<div align="center">
+  <a href="https://wa.me/+5538992101911"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:lsdeabreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-soares-in/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 
-## 🚀 Hard Skills:
-<div align="left">
+<br clear="both">
+
+<h2 align="center">🚀 Hard Skills 🚀</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="10" />
 </div>
 
 ###
