@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://img.freepik.com/vetores-gratis/programador-masculino-trabalhando-no-computador-na-parede-do-escritorio-com-adesivos-de-lembrete-pendurados-desenvolvedor-criando-nova-codificacao-de-interface-de-software-e-administrador-de-sistema-de-programacao-ou-personagem-de-designer_575670-1159.jpg?t=st=1714656313~exp=1714656913~hmac=153274703e4d389cfeb67c3ad8675b305aed8689514217c8788530178acd8a9d"/>
 </div>
 
 ###
